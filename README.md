@@ -5,6 +5,8 @@ Normally, a power system operates under balanced conditions. When the system bec
 Faults may occur in the power system due to the number of reasons like natural disturbances (lightning, high-speed winds, earthquakes), insulation breakdown, falling of a tree, bird shorting, etc.
 
 # DATASET 
+https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification
+
 WE SIMULATE THE CIRCUIT UNDER NORMAL CONDITIONS AS WELL AS UNDER VARIOUS FAULT CONDITIONS. WE THEN COLLECT AND SAVE THE MEASURED LINE VOLTAGES AND LINE CURRENTS AT THE OUTPUT SIDE OF THE POWER SYSTEM. WE COLLECTED NEARLY 12000 DATA POINTS, AND THEN THE DATA IS LABELED.
 [0 0 0 0] - No Fault
 [1 0 0 1] - LG fault (Between Phase A and
